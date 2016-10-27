@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MiCRM</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Textos Drawer-->
+    <string name="home">Home</string>
+    <string name="materialDesign">Material Design</string>
+    <string name="concetosAvan">Conceptos Avanzados</string>
+    <string name="desarrolloApp">Desarrollo App</string>
+    <string name="btn_main">Volver al incio</string>
+
+    <string name="ower">Alexis Rojas Hidalgo</string>
+
+</resources>
